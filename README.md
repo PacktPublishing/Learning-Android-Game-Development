@@ -5,7 +5,7 @@ In this book, we’ll start with installing Android studio and its components, a
 
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02. Chapter 1 does now have code as it has basic installation steps.
 
 
 
