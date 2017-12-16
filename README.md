@@ -27,6 +27,3 @@ This book is aimed at those who want to get started with native development with
 * [Learning Unity Android Game Development](https://www.packtpub.com/game-development/learning-unity-android-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781784394691)
 
 * [Learning LibGDX Game Development- Second Edition](https://www.packtpub.com/game-development/learning-libgdx-game-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781783554775)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
